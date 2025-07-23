@@ -1,5 +1,7 @@
 # 📊 Calculadora de Porcentagem de Eventos (MVP)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Este projeto é um MVP (Produto Mínimo Viável) de uma calculadora de porcentagem de eventos, desenvolvida para ajudar na visualização de métricas em tempo real. A aplicação permite calcular a porcentagem de um evento em relação a um total informado, com interface gráfica e foco na simplicidade.
 
 ## 🖼️ Interface
